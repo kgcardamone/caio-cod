@@ -1,0 +1,23 @@
+{
+  "title": "Nome do Projeto",
+  "name": "Projeto Caio",
+  "version": "0.0.1",
+  "homepage": "http://projectname.com",
+  "description": "Automação mínima para novos projetos",
+  "main": "Gruntfile.js",
+  "author": {
+    "name": "Milson Júnior",
+    "url": "http://authorsite.com",
+    "email": "junior.milson17@gmail.com"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-cssmin": "^0.11.0",
+    "grunt-contrib-imagemin": "latest",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.4.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^3.0.0"
+  }
+}
